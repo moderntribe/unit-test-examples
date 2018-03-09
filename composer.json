@@ -1,0 +1,16 @@
+{
+  "name": "moderntribe/core-plugin-tests",
+  "type": "project",
+  "description": "Tests for the core plugin",
+  "license": "Private",
+  "config": {
+    "vendor-dir": "vendor",
+    "preferred-install": "dist"
+  },
+  "require-dev": {
+    "lucatume/wp-browser": "^1.21"
+  },
+  "require": {
+    "lucatume/function-mocker": "~1.0"
+  }
+}
